@@ -6,7 +6,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/athena1806/7030_class1_binder/py37_r353
+[https://mybinder.org/v2/gh/athena1806/7030_class1_binder/py37_r353]
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
